@@ -1,0 +1,59 @@
+# \u5206\u5E93\u5206\u8868
+#spring:
+#  shardingsphere:
+#    datasource:
+#      names: ds0,ds1 #\u6570\u636E\u6E90\u540D\u79F0\uFF0C\u591A\u6570\u636E\u6E90\u4EE5\u9017\u53F7\u5206\u9694
+#      ds0:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://localhost:3306/test_db_01?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=true
+#        username: root
+#        password: root
+#      ds1:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://localhost:3306/test_db_02?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=true
+#        username: root
+#        password: root
+#    sharding:
+#      tables:
+#        user_info: #\u903B\u8F91\u8868\u540D,\u5728\u4E00\u4E2A\u5E93\u91CC\u5206\u8868:ds0.user_info_0,ds0.user_info_1
+#          actual-data-nodes: ds0.user_info_$->{0..1}
+#          table-strategy: #\u8868\u5206\u7247\u7B56\u7565
+#            inline: #\u884C\u8868\u8FBE\u5F0F\u5206\u7247\u7B56\u7565
+#              sharding-column: id #\u5206\u7247\u7684\u5B57\u6BB5
+#              algorithm-expression: user_info_$->{id % 2} #\u5206\u7247\u7684\u7B97\u6CD5
+#        dept_info: #\u5206\u5E93,\u4E24\u4E2A\u5E93\u91CC\u5EFA\u7CFB\u7EDF\u7684\u8868:ds0.dept_info,ds1.dept_info
+#          actual-data-nodes: ds$->{0..1}.dept_info
+#          database-strategy: #\u6570\u636E\u5E93\u5206\u7247\u7B56\u7565
+#            inline: #\u884C\u8868\u8FBE\u5F0F\u5206\u7247\u7B56\u7565
+#              sharding-column: id #\u5206\u7247\u7684\u5B57\u6BB5
+#              algorithm-expression: ds$->{id % 2} #\u5206\u7247\u7684\u7B97\u6CD5
+#    props:
+#      sql:
+#        show: true
+
+#\u8BFB\u5199\u5206\u79BB
+spring:
+  shardingsphere:
+    datasource:
+      names: primary,second
+      primary:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/test_db_03?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=true
+        username: root
+        password: root
+      second:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/test_db_04?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=true
+        username: root
+        password: root
+    masterslave:
+      name: ms
+      master-data-source-name: primary
+      slave-data-source-names: second
+    props:
+      sql:
+        show: true

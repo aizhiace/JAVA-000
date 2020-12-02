@@ -1,0 +1,15 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    druid:
+      primary:
+        url: jdbc:mysql://localhost:3306/test_db_03?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
+        username: root
+        password: root
+      second:
+        url: jdbc:mysql://localhost:3306/test_db_04?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
+        username: root
+        password: root
