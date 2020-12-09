@@ -30,7 +30,6 @@ class SeparateDBAndTableTests {
 
             for (int i = 1; i <= 32; i++) {
                 String sql = "insert into order_master_brief(id,no,order_status,customer_id) values(" + i + "," + 1000 + i + ",1," + i + ")";
-                log.info("sql: " + sql);
                 st.executeUpdate(sql);
             }
 

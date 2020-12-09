@@ -27,6 +27,12 @@ spring:
             inline:
               sharding-column: id
               algorithm-expression: order_master_brief_$->{id % 16}
+        account_brief:
+          actual-data-nodes: ds0.account_brief_$->{0..1}
+          table-strategy:
+            inline:
+              sharding-column: id
+              algorithm-expression: account_brief_$->{id % 2}
     props:
       sql:
         show: true
