@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a5d45e-7d5b-4f12-8836-aaeafa008035" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1VPTMXKGV2N1946hfGO40SGaWOK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xa-pay/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35373443" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.czh.geek.pay.config" />
+      <recent name="com.czh.geek.order.config" />
+      <recent name="com.czh.geek.pay.feign" />
+      <recent name="com.czh.geek.order.service.impl" />
+      <recent name="com.czh.geek.order.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-cloud-demo\xa-pay\src\main\resources" />
+      <recent name="D:\spring-cloud-demo\xa-account\src\main\resources" />
+      <recent name="D:\spring-cloud-demo\xa-order\src\main\resources" />
+      <recent name="E:\spring-cloud-demo\spring-cloud-demo-config-db-client\src\main\resources" />
+      <recent name="E:\spring-cloud-demo\spring-cloud-demo-consul-consumer\src\main\java\com\czh\consul\consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XaPayApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConfigCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-config-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.config.center.SpringCloudDemoConfigCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.config.client.SpringCloudDemoConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConfigDbClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-config-db-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.config.db.client.SpringCloudDemoConfigDbClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConfigDbServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-config-db-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.config.db.server.SpringCloudDemoConfigDbServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.config.server.SpringCloudDemoConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConsulConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-consul-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.consul.consumer.SpringCloudDemoConsulConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoConsulProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-consul-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.consul.provider.SpringCloudDemoConsulProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-cloud-demo-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.demo.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.eureka.SpringCloudDemoEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.config.eureka.SpringCloudDemoEurekaApplication" />
+    </configuration>
+    <configuration name="SpringCloudDemoFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-cloud-demo-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czh.demo.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.feign.SpringCloudDemoFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.ribbon.SpringCloudDemoRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoServiceHelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-service-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.service.hello.SpringCloudDemoServiceHelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudDemoZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-demo-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.demo.zuul.SpringCloudDemoZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XaAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xa-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.geek.account.XaAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XaOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xa-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.geek.order.XaOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XaPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xa-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czh.geek.pay.XaPayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.25821596" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a5d45e-7d5b-4f12-8836-aaeafa008035" name="Default" comment="" />
+      <created>1552874332867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552874332867</updated>
+      <workItem from="1552874334160" duration="19903000" />
+      <workItem from="1552900017046" duration="3512000" />
+      <workItem from="1552959089409" duration="15717000" />
+      <workItem from="1553044092858" duration="193000" />
+      <workItem from="1553044310977" duration="13093000" />
+      <workItem from="1553088214936" duration="642000" />
+      <workItem from="1553089633830" duration="2050000" />
+      <workItem from="1553136593824" duration="631000" />
+      <workItem from="1553236288299" duration="10555000" />
+      <workItem from="1553248056749" duration="469000" />
+      <workItem from="1553316380537" duration="597000" />
+      <workItem from="1553475845288" duration="17808000" />
+      <workItem from="1553562368819" duration="14744000" />
+      <workItem from="1553648635499" duration="1976000" />
+      <workItem from="1553753274178" duration="1965000" />
+      <workItem from="1553822190190" duration="13772000" />
+      <workItem from="1554081118192" duration="7474000" />
+      <workItem from="1554091644864" duration="13100000" />
+      <workItem from="1554166985941" duration="8360000" />
+      <workItem from="1554283112288" duration="1528000" />
+      <workItem from="1554692368623" duration="1065000" />
+      <workItem from="1554709353838" duration="193000" />
+      <workItem from="1554710591554" duration="599000" />
+      <workItem from="1554714294273" duration="623000" />
+      <workItem from="1554772229572" duration="2020000" />
+      <workItem from="1554858191007" duration="2816000" />
+      <workItem from="1554944814524" duration="1540000" />
+      <workItem from="1555030961588" duration="599000" />
+      <workItem from="1555041168142" duration="599000" />
+      <workItem from="1555991512363" duration="660000" />
+      <workItem from="1556596826301" duration="2105000" />
+      <workItem from="1557021343570" duration="5905000" />
+      <workItem from="1557112402689" duration="6181000" />
+      <workItem from="1558929792971" duration="745000" />
+      <workItem from="1560839232351" duration="754000" />
+      <workItem from="1560906264809" duration="780000" />
+      <workItem from="1561444664511" duration="476000" />
+      <workItem from="1562658000923" duration="1152000" />
+      <workItem from="1567667104913" duration="5355000" />
+      <workItem from="1567732831814" duration="5225000" />
+      <workItem from="1567756099625" duration="769000" />
+      <workItem from="1568280539771" duration="694000" />
+      <workItem from="1569547622157" duration="2116000" />
+      <workItem from="1571106449680" duration="500000" />
+      <workItem from="1571798003886" duration="2627000" />
+      <workItem from="1577153685602" duration="1000" />
+      <workItem from="1578901256626" duration="799000" />
+      <workItem from="1578902332688" duration="637000" />
+      <workItem from="1579157843345" duration="1231000" />
+      <workItem from="1587029849647" duration="1116000" />
+      <workItem from="1587350640887" duration="1856000" />
+      <workItem from="1587880876391" duration="1477000" />
+      <workItem from="1587884625163" duration="1370000" />
+      <workItem from="1587886843065" duration="592000" />
+      <workItem from="1588152260605" duration="777000" />
+      <workItem from="1588209895417" duration="917000" />
+      <workItem from="1588215215230" duration="1411000" />
+      <workItem from="1588230829646" duration="904000" />
+      <workItem from="1588726822132" duration="3590000" />
+      <workItem from="1588813953084" duration="1404000" />
+      <workItem from="1588995526797" duration="1762000" />
+      <workItem from="1589160997703" duration="1536000" />
+      <workItem from="1589190278038" duration="841000" />
+      <workItem from="1590374916253" duration="2786000" />
+      <workItem from="1590389913428" duration="855000" />
+      <workItem from="1590455378446" duration="2331000" />
+      <workItem from="1590541890666" duration="1792000" />
+      <workItem from="1590626829753" duration="3256000" />
+      <workItem from="1590714594317" duration="2070000" />
+      <workItem from="1594086670935" duration="5071000" />
+      <workItem from="1594174110112" duration="797000" />
+      <workItem from="1594193208229" duration="28000" />
+      <workItem from="1594259940421" duration="827000" />
+      <workItem from="1594261334994" duration="1854000" />
+      <workItem from="1595476703498" duration="819000" />
+      <workItem from="1595828650232" duration="2121000" />
+      <workItem from="1598860573724" duration="1106000" />
+      <workItem from="1598861884963" duration="745000" />
+      <workItem from="1598952060658" duration="1316000" />
+      <workItem from="1603850947027" duration="1801000" />
+      <workItem from="1604557326182" duration="1000" />
+      <workItem from="1607311789498" duration="4310000" />
+      <workItem from="1607320095487" duration="11891000" />
+      <workItem from="1607490937534" duration="9099000" />
+      <workItem from="1607502209122" duration="4132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="14" width="1366" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607395150426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="14" width="1366" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607395150426" />
+    <state x="307" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607503264432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="307" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607503264432" />
+    <state width="444" height="546" key="DebuggerActiveHint" timestamp="1607503651110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="444" height="546" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1607503651110" />
+    <state x="403" y="64" key="FileChooserDialogImpl" timestamp="1607502248674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="64" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607502248674" />
+    <state width="947" height="206" key="GridCell.Tab.0.bottom" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.0.center" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.0.left" timestamp="1607506355099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607506355099" />
+    <state width="947" height="206" key="GridCell.Tab.0.right" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.1.bottom" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.1.center" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.1.left" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="206" key="GridCell.Tab.1.right" timestamp="1607506355100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="206" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607506355100" />
+    <state width="947" height="124" key="GridCell.Tab.2.bottom" timestamp="1607506136982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="124" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607506136982" />
+    <state width="947" height="124" key="GridCell.Tab.2.center" timestamp="1607506136982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="124" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1607506136982" />
+    <state width="947" height="124" key="GridCell.Tab.2.left" timestamp="1607506136982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="124" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1607506136982" />
+    <state width="947" height="124" key="GridCell.Tab.2.right" timestamp="1607506136982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="947" height="124" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1607506136982" />
+    <state x="108" y="0" key="SettingsEditor" timestamp="1607502251343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="108" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607502251343" />
+    <state x="337" y="42" width="675" height="655" key="StructurePopup" timestamp="1607503502262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="42" width="675" height="655" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1607503502262" />
+    <state width="901" height="588" key="SwitcherDM" timestamp="1607505820046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="901" height="588" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1607505820046" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607503595052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1607503595052" />
+    <state x="302" y="73" width="762" height="582" key="find.popup" timestamp="1607504332696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="302" y="73" width="762" height="582" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1607504332696" />
+    <state x="0" y="39" width="1366" height="689" key="new project wizard" timestamp="1607491696106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="39" width="1366" height="689" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1607491696106" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1607504500206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607504500206" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-config/2.0.0.RELEASE/spring-cloud-consul-config-2.0.0.RELEASE.jar!/org/springframework/cloud/consul/config/ConfigWatch.class</url>
+          <line>98</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-config/2.0.0.RELEASE/spring-cloud-consul-config-2.0.0.RELEASE.jar!/org/springframework/cloud/consul/config/ConfigWatch.class</url>
+          <line>126</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-config/2.0.0.RELEASE/spring-cloud-consul-config-2.0.0.RELEASE.jar!/org/springframework/cloud/consul/config/ConfigWatch.class</url>
+          <line>151</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-config/2.0.0.RELEASE/spring-cloud-consul-config-2.0.0.RELEASE.jar!/org/springframework/cloud/consul/config/ConfigWatch.class</url>
+          <line>120</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (spring-cloud-demo-config-db-client)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35373443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-cloud-demo-config-client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35373443" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-service-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-center/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-consul-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-consul-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-db-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-db-client/pom.xml" />
+        <option value="$PROJECT_DIR$/xa-account/pom.xml" />
+        <option value="$PROJECT_DIR$/xa-order/pom.xml" />
+        <option value="$PROJECT_DIR$/xa-pay/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-cloud-demo-config-eureka/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

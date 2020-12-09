@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-db-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-db-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-db-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-db-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-consul-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-consul-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-consul-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-consul-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-service-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-service-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-demo-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xa-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xa-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xa-pay/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-demo-ribbon" />
+        <module name="spring-cloud-demo-zuul" />
+        <module name="xa-order" />
+        <module name="spring-cloud-demo-config-eureka" />
+        <module name="spring-cloud-demo-config-client" />
+        <module name="spring-cloud-demo-config-db-server" />
+        <module name="spring-cloud-demo-consul-consumer" />
+        <module name="spring-cloud-demo-config-center" />
+        <module name="spring-cloud-demo-feign" />
+        <module name="spring-cloud-demo-service-hello" />
+        <module name="xa-pay" />
+        <module name="spring-cloud-demo-consul-provider" />
+        <module name="spring-cloud-demo-eureka" />
+        <module name="spring-cloud-demo-config-db-client" />
+        <module name="xa-account" />
+        <module name="spring-cloud-demo-config-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shardingsphere-xa-demo" target="1.8" />
+      <module name="spring-cloud-demo-config-eureka" target="1.8" />
+      <module name="spring-cloud-demo-eureka (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shardingsphere-xa-demo" options="-parameters" />
+      <module name="spring-cloud-demo-config-center" options="-parameters" />
+      <module name="spring-cloud-demo-config-client" options="-parameters" />
+      <module name="spring-cloud-demo-config-db-client" options="-parameters" />
+      <module name="spring-cloud-demo-config-db-server" options="-parameters" />
+      <module name="spring-cloud-demo-config-server" options="-parameters" />
+      <module name="spring-cloud-demo-consul-consumer" options="-parameters" />
+      <module name="spring-cloud-demo-consul-provider" options="-parameters" />
+      <module name="spring-cloud-demo-eureka" options="-parameters" />
+      <module name="spring-cloud-demo-feign" options="-parameters" />
+      <module name="spring-cloud-demo-ribbon" options="-parameters" />
+      <module name="spring-cloud-demo-service-hello" options="-parameters" />
+      <module name="spring-cloud-demo-zuul" options="-parameters" />
+      <module name="xa-account" options="-parameters" />
+      <module name="xa-order" options="-parameters" />
+      <module name="xa-pay" options="-parameters" />
+    </option>
+  </component>
+</project>

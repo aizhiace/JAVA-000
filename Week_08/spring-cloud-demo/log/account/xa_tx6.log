@@ -1,0 +1,2 @@
+{"id":"192.168.197.1.tm160750617951700001","wasCommitted":true,"participants":[{"uri":"192.168.197.1.tm1","state":"COMMITTING","expires":1607506479627,"resourceName":"resource-1-ds0"}]}
+{"id":"192.168.197.1.tm160750617951700001","wasCommitted":true,"participants":[{"uri":"192.168.197.1.tm1","state":"TERMINATED","expires":1607506479633,"resourceName":"resource-1-ds0"}]}
